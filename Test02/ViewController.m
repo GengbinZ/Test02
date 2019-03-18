@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"修改代码，第二个版本０.０.２");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
